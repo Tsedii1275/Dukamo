@@ -1,2 +1,2 @@
 # Dukamo
-UI/UX design for Dukamo coffee house
+Web design for Dukamo coffee house
